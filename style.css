@@ -1,0 +1,56 @@
+/* style.css */
+/* AREA DO CORPO */
+body{
+  background: rgb(245,245,245);
+  color: black;
+  font-size: 25px;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+}
+/* AREA DO BANNER */
+h1 {
+  font-family: 'Montserrat', sans-serif;
+  color: #D13333;
+  font-size: 50px;
+  font-weight: lighter;
+}
+h2 {
+  font-weight: lighter;
+}
+
+a {
+  font-size: 30px;
+}
+
+a:hover {
+  color: purple;
+  text-decoration: none;
+}
+.container{
+  padding: 100px;
+}
+#banner {
+  background-image: url("https://lh3.googleusercontent.com/pw/ACtC-3dCg2dBcqZ2s8Cb-q_9WrxcpoN7w-cXdzMSdFur_G4Sb2MFCuTuSPww40domV0bGGMBwWLsNh9Vlp4sQd5VFiwYzcoWH7RzFBdVXt82DKkaf3RPnJ9XR9zDu4vjoy7_fln3F1NeXn3CMb33wLfVu84=w1415-h943-no?authuser=0");
+  background-size: cover;
+  padding: 150px;
+  color: white;
+  text-shadow: 1px 1px 5px black;
+  text-align: center;
+}
+#banner h1 {
+  color: white;
+  font-size: 50px;
+}
+#banner p {
+  color: white;
+  opacity: 0.8;
+  font-size: 20px;
+  font-weight: lighter;
+}
+#footer{
+  padding: 20px;
+  background: rgb(30, 30, 30);
+  color: lightgrey;
+}
+
+
